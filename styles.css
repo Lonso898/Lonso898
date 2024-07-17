@@ -1,0 +1,14 @@
+.highlight {
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.05);
+  }
+  
+  .highlight-0 { background-color: #f92a3f; }
+  .highlight-1 { background-color: #BAFFC9; }
+  .highlight-2 { background-color: #BAE1FF; }
+  .highlight-3 { background-color: #f0f038; }
+  .highlight-4 { background-color: #FFDFBA; }
+  
+  .current-find {
+    outline: 2px solid #FF4500;
+  }
